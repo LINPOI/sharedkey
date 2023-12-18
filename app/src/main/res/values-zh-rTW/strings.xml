@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="App_name">數位門鎖</string>
+
+
+    <string name="Traveler">旅者:</string>
+    <string name="explore">探索</string>
+    <string name="wishlist">願望清單</string>
+    <string name="travel">行程</string>
+    <string name="message">訊息</string>
+    <string name="account">帳號</string>
+        <string name="Membership_Information">會員資料</string>
+            <string name="Edit_profile">編輯個資</string>
+            <string name="Nickname">暱稱</string>
+            <string name="Gmail">電子郵件</string>
+            <string name="Name">真實名稱</string>
+            <string name="Telephone">電話</string>
+            <string name="Id">身分證</string>
+        <string name="Account_management">帳號管理</string>
+            <string name="Account_text">Gmail</string>
+        <string name="Become_a_renter">成為租屋人</string>
+    <string name="house_inf">房屋資訊</string>
+        <string name="Income_And_Payments">收入/付款</string>
+            <string name="payment">付款</string>
+            <string name="income">收入</string>
+
+
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+
+
+    <string name="account_does_not_exist">帳號不存在</string>
+    <string name="account_already_exists">帳號已存在</string>
+
+    <string name="Log_in_Btntext">登入</string>
+    <string name="sign_in_suceesfully">登入成功</string>
+    <string name="please_log_in_again">請重新登入</string>
+    <string name="not_logged_in">未登入</string>
+    <string name="sign_out">登出</string>
+
+
+    <string name="Password_text">密碼</string>
+    <string name="Forgot_password">忘記密碼</string>
+    <string name="new_password">新密碼</string>
+    <string name="wrong_password">密碼錯誤</string>
+    <string name="modify_password">修改密碼</string>
+    <string name="please_enter_new_password_again">請再次輸入新密碼</string>
+    <string name="please_enter_a_new_password">請輸入新密碼</string>
+    <string name="please_enter_old_password">請輸入舊密碼</string>
+    <string name="password_is_less_than_eight_characters">密碼不足八字元</string>
+    <string name="passwords_are_inconsistent">密碼不一致</string>
+    <string name="password_contains_illegal_characters">密碼內含非法字元</string>
+    <string name="the_new_password_cannot_be_the_same_as_the_old_password">新密碼不可與舊密碼相同</string>
+
+    <string name="Enroll">註冊</string>
+    <string name="registration_success">註冊成功</string>
+    <string name="registered">已被註冊</string>
+
+    <string name="Logout">註銷</string>
+    <string name="please_confirm_whether_to_log_out">真的要註銷嗎?</string>
+
+
+    <string name="please_fill_in_the_following_information">請填寫以下資料</string>
+    <string name="press_back_again_to_exit">再次滑動已退出</string>
+    <string name="please_log_in_to_your_account_first">請先登入帳號</string>
+    <string name="the_email_has_been_bound_please_do_not_modify_it">電子郵件已綁定，請勿修改</string>
+    <string name="there_seems_to_be_an_error_in_the_format">格式好像有錯誤</string>
+    <string name="not_in_gmail_format">不是Gmail格式</string>
+    <string name="please_confirm_whether_to_exit">請確認是否退出</string>
+    <string name="not_find">沒有找到</string>
+    <string name="house_name">房屋名稱</string>
+    <string name="address">地址</string>
+    <string name="guests">人數</string>
+    <string name="bedroom">臥室</string>
+    <string name="dedicated_bathroom">獨立衛浴</string>
+    <string name="shared_bathroom">共享衛浴</string>
+    <string name="bed">床數</string>
+    <string name="baths">衛浴數量</string>
+    <string name="detached_house">透天厝</string>
+    <string name="villa">別墅</string>
+    <string name="apartment">公寓</string>
+    <string name="mansion">華廈</string>
+    <string name="high_rise_building">電梯大樓</string>
+    <string name="house_type">房屋種類</string>
+    <string name="please_choose">請選擇</string>
+    <string name="select_category">選擇種類</string>
+
+</resources>
